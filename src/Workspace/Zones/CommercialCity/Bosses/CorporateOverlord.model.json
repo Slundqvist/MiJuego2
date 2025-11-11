@@ -1,0 +1,46 @@
+{
+  "className": "Model",
+  "properties": {
+    "Name": "CorporateOverlord"
+  },
+  "children": [
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "Body",
+        "Anchored": true,
+        "Size": [
+          5,
+          8,
+          5
+        ],
+        "Color": [
+          0.8,
+          0.1,
+          0.3
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          4,
+          440
+        ]
+      }
+    },
+    {
+      "className": "Humanoid",
+      "properties": {
+        "Health": 6000,
+        "MaxHealth": 6000
+      }
+    }
+  ]
+}

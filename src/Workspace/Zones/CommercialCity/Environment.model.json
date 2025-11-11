@@ -1,0 +1,287 @@
+{
+  "className": "Model",
+  "properties": {
+    "Name": "Environment"
+  },
+  "children": [
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "Plaza",
+        "Anchored": true,
+        "Size": [
+          130,
+          1,
+          130
+        ],
+        "Color": [
+          0.545,
+          0.545,
+          0.545
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          440
+        ]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "TowerA",
+        "Anchored": true,
+        "Size": [
+          10,
+          40,
+          10
+        ],
+        "Color": [
+          0.337,
+          0.337,
+          0.337
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          -40,
+          20,
+          400
+        ]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "TowerB",
+        "Anchored": true,
+        "Size": [
+          14,
+          30,
+          14
+        ],
+        "Color": [
+          0.266,
+          0.266,
+          0.266
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          42,
+          15,
+          475
+        ]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "BarrierNorth",
+        "Anchored": true,
+        "Size": [
+          130,
+          25,
+          2
+        ],
+        "Color": [
+          0.223,
+          0.223,
+          0.223
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          12,
+          374
+        ]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "BarrierSouth",
+        "Anchored": true,
+        "Size": [
+          130,
+          25,
+          2
+        ],
+        "Color": [
+          0.223,
+          0.223,
+          0.223
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          12,
+          506
+        ]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "BarrierEast",
+        "Anchored": true,
+        "Size": [
+          2,
+          25,
+          130
+        ],
+        "Color": [
+          0.223,
+          0.223,
+          0.223
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          66,
+          12,
+          440
+        ]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "BarrierWest",
+        "Anchored": true,
+        "Size": [
+          2,
+          25,
+          130
+        ],
+        "Color": [
+          0.223,
+          0.223,
+          0.223
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          -66,
+          12,
+          440
+        ]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "SpawnPad",
+        "Anchored": true,
+        "Size": [
+          8,
+          1,
+          8
+        ],
+        "Color": [
+          0.6,
+          0.6,
+          0.1
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0.5,
+          387.0
+        ]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "ZoneConnector",
+        "Anchored": true,
+        "Size": [
+          12,
+          1,
+          95.0
+        ],
+        "Color": [
+          0.4,
+          0.4,
+          0.4
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0.5,
+          552.5
+        ]
+      }
+    }
+  ]
+}

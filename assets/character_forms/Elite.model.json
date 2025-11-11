@@ -1,0 +1,79 @@
+{
+  "className": "Model",
+  "properties": {
+    "Name": "Elite"
+  },
+  "children": [
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "HumanoidRootPart",
+        "Anchored": false,
+        "Size": [
+          2,
+          2,
+          1
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0
+        ],
+        "Color": [
+          0.35,
+          0.35,
+          0.85
+        ]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "Head",
+        "Anchored": false,
+        "Size": [
+          2,
+          1,
+          2
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          2.5,
+          0
+        ],
+        "Color": [
+          0.65,
+          0.6,
+          0.9
+        ]
+      }
+    },
+    {
+      "className": "Humanoid",
+      "properties": {
+        "Health": 320,
+        "MaxHealth": 320,
+        "WalkSpeed": 22,
+        "JumpPower": 56
+      }
+    }
+  ]
+}

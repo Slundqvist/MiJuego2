@@ -1,0 +1,46 @@
+{
+  "className": "Model",
+  "properties": {
+    "Name": "DuneColossus"
+  },
+  "children": [
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "Body",
+        "Anchored": true,
+        "Size": [
+          5,
+          8,
+          5
+        ],
+        "Color": [
+          0.8,
+          0.6,
+          0.2
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          4,
+          880
+        ]
+      }
+    },
+    {
+      "className": "Humanoid",
+      "properties": {
+        "Health": 12000,
+        "MaxHealth": 12000
+      }
+    }
+  ]
+}

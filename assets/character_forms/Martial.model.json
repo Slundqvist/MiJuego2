@@ -1,0 +1,79 @@
+{
+  "className": "Model",
+  "properties": {
+    "Name": "Martial"
+  },
+  "children": [
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "HumanoidRootPart",
+        "Anchored": false,
+        "Size": [
+          2,
+          2,
+          1
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0
+        ],
+        "Color": [
+          0.4,
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "Head",
+        "Anchored": false,
+        "Size": [
+          2,
+          1,
+          2
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          2.5,
+          0
+        ],
+        "Color": [
+          0.7,
+          0.7,
+          0.9
+        ]
+      }
+    },
+    {
+      "className": "Humanoid",
+      "properties": {
+        "Health": 220,
+        "MaxHealth": 220,
+        "WalkSpeed": 20,
+        "JumpPower": 54
+      }
+    }
+  ]
+}

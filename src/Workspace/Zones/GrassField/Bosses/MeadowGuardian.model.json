@@ -1,0 +1,46 @@
+{
+  "className": "Model",
+  "properties": {
+    "Name": "MeadowGuardian"
+  },
+  "children": [
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "Body",
+        "Anchored": true,
+        "Size": [
+          5,
+          8,
+          5
+        ],
+        "Color": [
+          0.6,
+          0.2,
+          0.2
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "className": "Humanoid",
+      "properties": {
+        "Health": 2000,
+        "MaxHealth": 2000
+      }
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "className": "Model",
+  "properties": {
+    "Name": "Environment"
+  },
+  "children": [
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "Ground",
+        "Anchored": true,
+        "Size": [
+          110,
+          1,
+          110
+        ],
+        "Color": [
+          0.188,
+          0.435,
+          0.188
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          220
+        ]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "WallNorth",
+        "Anchored": true,
+        "Size": [
+          110,
+          25,
+          2
+        ],
+        "Color": [
+          0.278,
+          0.196,
+          0.125
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          12,
+          164
+        ]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "WallSouth",
+        "Anchored": true,
+        "Size": [
+          110,
+          25,
+          2
+        ],
+        "Color": [
+          0.278,
+          0.196,
+          0.125
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          12,
+          276
+        ]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "WallEast",
+        "Anchored": true,
+        "Size": [
+          2,
+          25,
+          110
+        ],
+        "Color": [
+          0.278,
+          0.196,
+          0.125
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          56,
+          12,
+          220
+        ]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "WallWest",
+        "Anchored": true,
+        "Size": [
+          2,
+          25,
+          110
+        ],
+        "Color": [
+          0.278,
+          0.196,
+          0.125
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          -56,
+          12,
+          220
+        ]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "TreeCluster",
+        "Anchored": true,
+        "Size": [
+          15,
+          18,
+          15
+        ],
+        "Color": [
+          0.184,
+          0.431,
+          0.133
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          25,
+          9,
+          202
+        ]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "SpawnPad",
+        "Anchored": true,
+        "Size": [
+          8,
+          1,
+          8
+        ],
+        "Color": [
+          0.6,
+          0.6,
+          0.1
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0.5,
+          177.0
+        ]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "ZoneConnector",
+        "Anchored": true,
+        "Size": [
+          12,
+          1,
+          100.0
+        ],
+        "Color": [
+          0.4,
+          0.4,
+          0.4
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0.5,
+          325.0
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "className": "HumanoidDescription",
+  "properties": {
+    "Name": "Martial",
+    "BodyTypeScale": 0.7,
+    "DepthScale": 1.1,
+    "HeightScale": 1.1,
+    "WidthScale": 1.1,
+    "HeadScale": 1.1,
+    "ProportionScale": 0.7,
+    "Shirt": 7487763533,
+    "Pants": 6238071044,
+    "GraphicTShirt": 0,
+    "Face": 0
+  }
+}

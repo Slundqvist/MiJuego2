@@ -1,0 +1,16 @@
+{
+  "className": "HumanoidDescription",
+  "properties": {
+    "Name": "Apprentice",
+    "BodyTypeScale": 0.6,
+    "DepthScale": 1.05,
+    "HeightScale": 1.05,
+    "WidthScale": 1.05,
+    "HeadScale": 1.05,
+    "ProportionScale": 0.6,
+    "Shirt": 6957029177,
+    "Pants": 6238070523,
+    "GraphicTShirt": 0,
+    "Face": 0
+  }
+}

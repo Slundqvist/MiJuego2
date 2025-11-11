@@ -1,0 +1,46 @@
+{
+  "className": "Model",
+  "properties": {
+    "Name": "Enemy_Lv4"
+  },
+  "children": [
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "Body",
+        "Anchored": true,
+        "Size": [
+          2,
+          3,
+          1
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          20,
+          1.5,
+          210
+        ],
+        "Color": [
+          0.7,
+          0.3,
+          0.2
+        ]
+      }
+    },
+    {
+      "className": "Humanoid",
+      "properties": {
+        "Health": 200,
+        "MaxHealth": 200
+      }
+    }
+  ]
+}

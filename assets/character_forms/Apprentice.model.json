@@ -1,0 +1,79 @@
+{
+  "className": "Model",
+  "properties": {
+    "Name": "Apprentice"
+  },
+  "children": [
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "HumanoidRootPart",
+        "Anchored": false,
+        "Size": [
+          2,
+          2,
+          1
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0
+        ],
+        "Color": [
+          0.5,
+          0.6,
+          0.7
+        ]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "Head",
+        "Anchored": false,
+        "Size": [
+          2,
+          1,
+          2
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          2.5,
+          0
+        ],
+        "Color": [
+          0.7,
+          0.75,
+          0.85
+        ]
+      }
+    },
+    {
+      "className": "Humanoid",
+      "properties": {
+        "Health": 150,
+        "MaxHealth": 150,
+        "WalkSpeed": 18,
+        "JumpPower": 52
+      }
+    }
+  ]
+}

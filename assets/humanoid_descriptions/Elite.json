@@ -1,0 +1,16 @@
+{
+  "className": "HumanoidDescription",
+  "properties": {
+    "Name": "Elite",
+    "BodyTypeScale": 0.8,
+    "DepthScale": 1.15,
+    "HeightScale": 1.15,
+    "WidthScale": 1.15,
+    "HeadScale": 1.15,
+    "ProportionScale": 0.8,
+    "Shirt": 7487764679,
+    "Pants": 6238071855,
+    "GraphicTShirt": 0,
+    "Face": 0
+  }
+}

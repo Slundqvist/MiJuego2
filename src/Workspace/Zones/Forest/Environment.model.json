@@ -1,0 +1,66 @@
+{
+  "className": "Model",
+  "properties": {"Name": "Environment"},
+  "children": [
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "Ground",
+        "Anchored": true,
+        "Size": [110, 1, 110],
+        "Color": [0.188, 0.435, 0.188],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "WallNorth",
+        "Anchored": true,
+        "Size": [110, 25, 2],
+        "Color": [0.278, 0.196, 0.125],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 12, -56]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "WallSouth",
+        "Anchored": true,
+        "Size": [110, 25, 2],
+        "Color": [0.278, 0.196, 0.125],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 12, 56]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "WallEast",
+        "Anchored": true,
+        "Size": [2, 25, 110],
+        "Color": [0.278, 0.196, 0.125],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 56, 12, 0]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "WallWest",
+        "Anchored": true,
+        "Size": [2, 25, 110],
+        "Color": [0.278, 0.196, 0.125],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, -56, 12, 0]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "TreeCluster",
+        "Anchored": true,
+        "Size": [15, 18, 15],
+        "Color": [0.184, 0.431, 0.133],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 25, 9, -18]
+      }
+    }
+  ]
+}

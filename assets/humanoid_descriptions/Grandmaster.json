@@ -1,0 +1,16 @@
+{
+  "className": "HumanoidDescription",
+  "properties": {
+    "Name": "Grandmaster",
+    "BodyTypeScale": 0.9,
+    "DepthScale": 1.2,
+    "HeightScale": 1.2,
+    "WidthScale": 1.2,
+    "HeadScale": 1.2,
+    "ProportionScale": 0.9,
+    "Shirt": 7487765981,
+    "Pants": 6238072438,
+    "GraphicTShirt": 0,
+    "Face": 0
+  }
+}

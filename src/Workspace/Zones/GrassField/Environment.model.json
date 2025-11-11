@@ -1,0 +1,66 @@
+{
+  "className": "Model",
+  "properties": {"Name": "Environment"},
+  "children": [
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "Ground",
+        "Anchored": true,
+        "Size": [120, 1, 120],
+        "Color": [0.298, 0.741, 0.298],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "WallNorth",
+        "Anchored": true,
+        "Size": [120, 20, 2],
+        "Color": [0.435, 0.392, 0.314],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 10, -61]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "WallSouth",
+        "Anchored": true,
+        "Size": [120, 20, 2],
+        "Color": [0.435, 0.392, 0.314],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 10, 61]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "WallEast",
+        "Anchored": true,
+        "Size": [2, 20, 120],
+        "Color": [0.435, 0.392, 0.314],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 61, 10, 0]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "WallWest",
+        "Anchored": true,
+        "Size": [2, 20, 120],
+        "Color": [0.435, 0.392, 0.314],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, -61, 10, 0]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "Hill",
+        "Anchored": true,
+        "Size": [20, 6, 20],
+        "Color": [0.372, 0.694, 0.372],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, -25, 3, 20]
+      }
+    }
+  ]
+}

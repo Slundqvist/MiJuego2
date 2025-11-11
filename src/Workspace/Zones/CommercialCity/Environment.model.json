@@ -1,0 +1,76 @@
+{
+  "className": "Model",
+  "properties": {"Name": "Environment"},
+  "children": [
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "Plaza",
+        "Anchored": true,
+        "Size": [130, 1, 130],
+        "Color": [0.545, 0.545, 0.545],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "TowerA",
+        "Anchored": true,
+        "Size": [10, 40, 10],
+        "Color": [0.337, 0.337, 0.337],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, -40, 20, -40]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "TowerB",
+        "Anchored": true,
+        "Size": [14, 30, 14],
+        "Color": [0.266, 0.266, 0.266],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 42, 15, 35]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "BarrierNorth",
+        "Anchored": true,
+        "Size": [130, 25, 2],
+        "Color": [0.223, 0.223, 0.223],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 12, -66]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "BarrierSouth",
+        "Anchored": true,
+        "Size": [130, 25, 2],
+        "Color": [0.223, 0.223, 0.223],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 12, 66]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "BarrierEast",
+        "Anchored": true,
+        "Size": [2, 25, 130],
+        "Color": [0.223, 0.223, 0.223],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 66, 12, 0]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "BarrierWest",
+        "Anchored": true,
+        "Size": [2, 25, 130],
+        "Color": [0.223, 0.223, 0.223],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, -66, 12, 0]
+      }
+    }
+  ]
+}

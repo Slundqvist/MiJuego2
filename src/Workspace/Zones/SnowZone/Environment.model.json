@@ -1,0 +1,66 @@
+{
+  "className": "Model",
+  "properties": {"Name": "Environment"},
+  "children": [
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "SnowField",
+        "Anchored": true,
+        "Size": [140, 1, 140],
+        "Color": [0.898, 0.929, 0.949],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "IceWallNorth",
+        "Anchored": true,
+        "Size": [140, 28, 2],
+        "Color": [0.721, 0.831, 0.9],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 14, -71]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "IceWallSouth",
+        "Anchored": true,
+        "Size": [140, 28, 2],
+        "Color": [0.721, 0.831, 0.9],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 14, 71]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "IceWallEast",
+        "Anchored": true,
+        "Size": [2, 28, 140],
+        "Color": [0.721, 0.831, 0.9],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 71, 14, 0]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "IceWallWest",
+        "Anchored": true,
+        "Size": [2, 28, 140],
+        "Color": [0.721, 0.831, 0.9],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, -71, 14, 0]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "IceShard",
+        "Anchored": true,
+        "Size": [12, 20, 12],
+        "Color": [0.623, 0.807, 0.882],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, -30, 10, 25]
+      }
+    }
+  ]
+}

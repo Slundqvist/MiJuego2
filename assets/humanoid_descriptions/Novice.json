@@ -1,0 +1,16 @@
+{
+  "className": "HumanoidDescription",
+  "properties": {
+    "Name": "Novice",
+    "BodyTypeScale": 0.5,
+    "DepthScale": 1.0,
+    "HeightScale": 1.0,
+    "WidthScale": 1.0,
+    "HeadScale": 1.0,
+    "ProportionScale": 0.5,
+    "Shirt": 0,
+    "Pants": 0,
+    "GraphicTShirt": 0,
+    "Face": 0
+  }
+}

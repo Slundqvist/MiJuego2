@@ -1,0 +1,66 @@
+{
+  "className": "Model",
+  "properties": {"Name": "Environment"},
+  "children": [
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "MarbleFloor",
+        "Anchored": true,
+        "Size": [180, 1, 180],
+        "Color": [0.835, 0.847, 0.847],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "InnerRing",
+        "Anchored": true,
+        "Size": [140, 2, 140],
+        "Color": [0.667, 0.655, 0.631],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "PillarA",
+        "Anchored": true,
+        "Size": [6, 30, 6],
+        "Color": [0.796, 0.764, 0.705],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 50, 15, 50]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "PillarB",
+        "Anchored": true,
+        "Size": [6, 30, 6],
+        "Color": [0.796, 0.764, 0.705],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, -50, 15, -50]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "PillarC",
+        "Anchored": true,
+        "Size": [6, 30, 6],
+        "Color": [0.796, 0.764, 0.705],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 50, 15, -50]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "PillarD",
+        "Anchored": true,
+        "Size": [6, 30, 6],
+        "Color": [0.796, 0.764, 0.705],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, -50, 15, 50]
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "className": "Model",
+  "properties": {
+    "Name": "EternalSensei"
+  },
+  "children": [
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "Body",
+        "Anchored": true,
+        "Size": [
+          5,
+          8,
+          5
+        ],
+        "Color": [
+          0.7,
+          0.2,
+          0.4
+        ],
+        "CFrame": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "className": "Humanoid",
+      "properties": {
+        "Health": 25000,
+        "MaxHealth": 25000
+      }
+    }
+  ]
+}

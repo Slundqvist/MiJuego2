@@ -1,0 +1,76 @@
+{
+  "className": "Model",
+  "properties": {"Name": "Environment"},
+  "children": [
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "Sand",
+        "Anchored": true,
+        "Size": [150, 1, 150],
+        "Color": [0.933, 0.831, 0.616],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "Dune",
+        "Anchored": true,
+        "Size": [40, 12, 40],
+        "Color": [0.905, 0.788, 0.525],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 35, 6, -20]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "RockSpire",
+        "Anchored": true,
+        "Size": [10, 25, 10],
+        "Color": [0.521, 0.388, 0.243],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, -45, 12, 30]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "WallNorth",
+        "Anchored": true,
+        "Size": [150, 25, 2],
+        "Color": [0.686, 0.529, 0.317],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 12, -76]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "WallSouth",
+        "Anchored": true,
+        "Size": [150, 25, 2],
+        "Color": [0.686, 0.529, 0.317],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 12, 76]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "WallEast",
+        "Anchored": true,
+        "Size": [2, 25, 150],
+        "Color": [0.686, 0.529, 0.317],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, 76, 12, 0]
+      }
+    },
+    {
+      "className": "Part",
+      "properties": {
+        "Name": "WallWest",
+        "Anchored": true,
+        "Size": [2, 25, 150],
+        "Color": [0.686, 0.529, 0.317],
+        "CFrame": [1, 0, 0, 0, 1, 0, 0, 0, 1, -76, 12, 0]
+      }
+    }
+  ]
+}
